@@ -14,7 +14,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dyuk01/dyuk01/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2> Tools that I have used and learned</h2>
+<h2> Programming Languages & Tools that I can utilize</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
