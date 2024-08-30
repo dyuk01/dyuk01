@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+## About me
 ---
-### About me
 👋 Hi! I'm a Junior majoring in Computer Science with a strong focus on Software Engineering. I'm passionate about cloud platforms, especially AWS, and innovative problem-solving. I'm excited to tackle new challenges and contribute to interesting projects.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
