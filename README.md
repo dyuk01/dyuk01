@@ -4,7 +4,7 @@
 
 ## About me
 ---
-👋 Hi! I'm a Junior majoring in Computer Science with a strong focus on Software Engineering. I'm passionate about cloud platforms, especially AWS, and innovative problem-solving. I'm excited to tackle new challenges and contribute to interesting projects.
+Senior CS student @ Purdue specializing in software engineering. I build scalable systems with Node.js, Python, and AWS. Passionate about designing robust APIs, real-time communication systems, and integrating AI into production pipelines..
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dyuk01&theme=tokyonight&rank_icon=github" />
