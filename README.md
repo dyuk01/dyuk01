@@ -4,7 +4,7 @@
 
 ## About me
 ---
-Senior CS student @ Purdue specializing in software engineering. I build scalable systems with Node.js, Python, and AWS. Passionate about designing robust APIs, real-time communication systems, and integrating AI into production pipelines..
+Senior CS student @ Purdue specializing in software engineering, focused on building scalable systems with Node.js, Python, and AWS. Passionate about designing robust APIs, real-time communication systems, and integrating AI into production pipelines
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dyuk01&theme=tokyonight&rank_icon=github" />
