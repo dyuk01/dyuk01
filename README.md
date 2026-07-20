@@ -40,15 +40,6 @@ My work spans production full-stack systems, data-intensive applications, and re
 
 ## GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/dyuk01">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dyuk01&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Peter Yuk's GitHub statistics" />
-  </a>
-  <a href="https://github.com/dyuk01?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyuk01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most-used languages across public repositories" />
-  </a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dyuk01/dyuk01/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dyuk01/dyuk01/output/github-contribution-grid-snake.svg" />
